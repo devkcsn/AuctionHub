@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="108" fill="#04030f"/>
+  <!-- Rising "A" / upward bid arrow -->
+  <path d="M128 368 L256 112 L384 368"
+        stroke="#73eedc" stroke-width="48" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- A crossbar — price level -->
+  <line x1="176" y1="280" x2="336" y2="280"
+        stroke="#73eedc" stroke-width="38" stroke-linecap="round"/>
+  <!-- Hub dot -->
+  <circle cx="256" cy="432" r="28" fill="#73eedc"/>
+</svg>
