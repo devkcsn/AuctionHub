@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.auction.dto.ApiResponseTest$BuilderTests
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.034 s -- in com.auction.dto.ApiResponseTest$BuilderTests
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.010 s -- in com.auction.dto.ApiResponseTest$BuilderTests
